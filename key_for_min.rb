@@ -9,4 +9,6 @@ name_hash.each do |key, value|
   if 
     
     min_value_key = key
+  end 
+  count +=1
 end
